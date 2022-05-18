@@ -1,1 +1,1 @@
-Overworldlife NFT Minting - Frontnend
+Overworldlife NFT Minting - contracts
